@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tpm.dto.admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed22e0c3e2961bc0c89aeffd75ab6e85959830e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tpm.dto.admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tpm.dto.admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -344,3 +344,4 @@ C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\re
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.pdb
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.genruntimeconfig.cache
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\ref\tpm.web.contract.dll
+C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.sourcelink.json
