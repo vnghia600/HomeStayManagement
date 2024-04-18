@@ -302,20 +302,9 @@ C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tp
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.RazorCoreGenerate.cache
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Accounts\Loginv1.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\ContractServiceTypes\Index.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Contracts\Create.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Contracts\Index.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Contracts\ServiceDetail.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Employees\Detail.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Home\Indexv1.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Services\Create.cshtml.g.cs
-C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Shared\_breadcrumb.cshtml.g.cs
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\Razor\Views\Shared\_footer.cshtml.g.cs
@@ -344,3 +333,4 @@ C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\re
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.pdb
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.genruntimeconfig.cache
 C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\ref\tpm.web.contract.dll
+C:\Users\DokGo\Documents\HomeStayManagement\tpm.web.contract\obj\Debug\net5.0\tpm.web.contract.sourcelink.json
